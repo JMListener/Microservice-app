@@ -1,0 +1,16 @@
+ru\panteleeva\dictionary\model\DataEntity.class
+ru\panteleeva\dictionary\service\DictionaryService.class
+ru\panteleeva\dictionary\dto\CreateUpdateDataDto.class
+ru\panteleeva\dictionary\repository\DictionaryRepository.class
+ru\panteleeva\dictionary\model\DictionaryEntity.class
+ru\panteleeva\dictionary\exception\DataNotFoundException.class
+ru\panteleeva\dictionary\dto\DataDto.class
+ru\panteleeva\dictionary\repository\DataRepository.class
+ru\panteleeva\dictionary\service\DataService.class
+ru\panteleeva\dictionary\dto\DictionaryDto.class
+ru\panteleeva\dictionary\exception\DictionaryNotFoundException.class
+ru\panteleeva\dictionary\controller\DataController.class
+ru\panteleeva\dictionary\controller\DictionaryController.class
+ru\panteleeva\dictionary\DictionaryApplication.class
+ru\panteleeva\dictionary\dto\converter\DictionaryDtoConverter.class
+ru\panteleeva\dictionary\dto\CreateUpdateDictionaryDto.class
